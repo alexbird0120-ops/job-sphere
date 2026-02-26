@@ -32,7 +32,7 @@ export function Navbar() {
           <span className="text-xl font-bold tracking-tight text-foreground font-mono">
             JobSphere
           </span>
-        </Link>User-friendly interface for job seekers at every stage, from students to experienced professionals
+        </Link>
 
         {/* Desktop Navigation */}
         <div className="hidden items-center gap-1 md:flex">
