@@ -51,6 +51,11 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
+      <script
+        async
+        src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-6127223720141848"
+        crossOrigin="anonymous"
+      ></script>
       <body
         className={`${inter.variable} ${spaceGrotesk.variable} font-sans antialiased`}
       >
